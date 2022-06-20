@@ -2,4 +2,4 @@
 Repositório para projetos diversos em Engenharia de Dados.
 
 ## Projeto 1 - RoboCar
-Um projeto base para simular um pequeno controle de locações em uma locadora de veículo. Este projeto foi propostno curso "Udemy - Formação Engenheiro de Dados".
+Um projeto base para simular um pequeno controle de locações em uma locadora de veículo. Este projeto foi proposto curso "Udemy - Formação Engenheiro de Dados".
